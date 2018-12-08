@@ -1,0 +1,102 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+     
+    
+    background-color: rgb(255, 255, 255);
+    color: rgb(28, 151, 223)
+}
+img{
+    max-width: 100%;/* #tamaño de la imagen */
+}
+.quitar-float{   /*para centrar*/
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 40px;
+}
+.espacio-abajo{
+    margin-bottom: 1em;
+}
+.espacio-derecha{
+    margin-right: 1em;
+}
+.retraso1{
+    -webkit-animation-delay: 3s;
+    -moz-animation-delay: 3s;
+    animation-delay: 3s;
+}
+
+.retraso2{
+    -webkit-animation-delay: 1.5s;
+    -moz-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+.retraso3{
+    -webkit-animation-delay: 4.5s;
+    -moz-animation-delay: 4.5s;
+    animation-delay: 4.5s;
+}
+
+.pacifico{
+    font-family: 'Pacifico',cursive;
+}
+.poppins{
+    font-family: 'Poppins';
+}
+.monserat{
+    font-family: 'Montserrat';
+}
+.masgrande{
+    font-size: 6em;
+}
+.grande{
+    font-size: 2em;
+}
+.tampestañas{
+    font-size: 3em
+}
+.box-shadow { box-shadow: 0 .75rem .95rem rgb(229, 243, 100); }
+.mediano{
+    font-size: 1.5em;
+}
+.chico{
+    font-size: 13px
+}
+.tam-banner{
+    font-size: 17px
+}
+.oscuro{
+    color: black
+}
+
+.celeste{
+    color: rgb(10, 112, 175);
+    
+}
+.no-lista li{ /*selector, el cual crea una regla para seleccionar un elemento en html*/
+  list-style-type: none;
+
+}
+.no-lista{
+    margin: 1px;
+    padding: 1px;
+}
+.inline-block{
+    float: none;
+    display: inline-block;
+}
+.se-gris{
+    background-color: rgb(42, 204, 74);
+}
+.padding-largo{
+    padding: 1px 4px;
+}
+
+a{
+    color: rgb(60, 148, 199)
+}
+
+.colorblanco{
+    color: rgb(255, 255, 255)
+}
+
